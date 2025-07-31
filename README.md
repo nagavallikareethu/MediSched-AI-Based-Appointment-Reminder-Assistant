@@ -22,9 +22,9 @@
 
 ## 📸 Project Workflow Overview
 
-![MediSched Workflow Screenshot]
 
-(<img width="1737" height="828" alt="image" src="https://github.com/user-attachments/assets/d10a60b2-f773-4344-97a0-22ae944dda1d" />)
+
+<img width="1737" height="828" alt="image" src="https://github.com/user-attachments/assets/d10a60b2-f773-4344-97a0-22ae944dda1d" />
 
 ---
 
